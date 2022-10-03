@@ -5,6 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+- [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -12,6 +13,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
+
+### Screenshot
+
+![code](https://user-images.githubusercontent.com/93859577/193693088-ed23e43b-b823-4bd6-b466-cb7efb8295c0.png)
 
 ### Built with
 
@@ -25,7 +30,7 @@ Doing it all with only a HTML file and adding internal CSS is something to try.
 
 ### Continued development
 
-For future projects introducing more Flex-box and Grid CSS into this type of webpages is something to look for,
+For future projects introducing more Flexbox and Grid CSS into this type of webpages is something to look for,
 making it easier to create and a great couple of skills to learn.
 
 ## Author

@@ -35,11 +35,6 @@ img{
     margin-top: 20px;
 }
 
-.overlay{
-    display: none;
-}
-
-
 p{
     font-family: var(--fonte-padrao);
     font-size: 18px;
